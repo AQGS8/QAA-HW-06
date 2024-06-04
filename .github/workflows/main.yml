@@ -2,7 +2,7 @@ name: Cypress Test on GitHub
 
 on: [push]
 
-jobes: 
+jobs: 
   cypress-run: 
     runs-on: ubuntu-latest
     steps: 
