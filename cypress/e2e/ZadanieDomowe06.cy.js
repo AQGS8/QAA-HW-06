@@ -4,7 +4,7 @@ import { HomePage } from "../pages/HomePAge";
 const loginPage = new Login();
 const homePage = new HomePage();
 
-describe("ZadanieDomowe3@GoIT QAA", () => {
+describe("ZadanieDomowe6@GoIT QAA", () => {
   beforeEach(() => {
     loginPage.visit();
   });
